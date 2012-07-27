@@ -1,0 +1,4 @@
+* Refactor rdPNG into more generic PNG library (it's fairly specific
+  to the needs of KidPaint currently).
+* Refactor rdShape into a general purpose color index PNG library,
+  tentatively called rdIndexedImage.brs.
